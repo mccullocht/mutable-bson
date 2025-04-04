@@ -1,7 +1,10 @@
 [package]
 name = "mutable-bson"
+description = "Support efficient mutation of binary coded BSON messages."
 version = "0.1.0"
 edition = "2024"
+authors = ["Trevor McCulloch <mccullocht@gmail.com>"]
+license = "MIT"
 
 [dependencies]
 bson = "2.14.0"
